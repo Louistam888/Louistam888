@@ -7,3 +7,5 @@ them towards improving the communities around me.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louistam888)](https://github.com/Louistam888/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louistam888)](https://github.com/Louistam888/github-readme-stats)
