@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Louistam888.
-- 👀 I’m interested in growing my skills stack and applying
-them towards improving the communities around me.
-- 🌱 I’m currently learning full stack web development.
+- 👀 I’m a marketing manager and web developer.
+- 🌱 I’m currently learning AI while expanding my knowledge in web development.
 - 💞️ I’m looking to collaborate on cool and exciting projects!
 - 📫 How to reach me: louistam888@gmail.com
 
