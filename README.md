@@ -5,10 +5,9 @@
 - 📫 How to reach me: louistam888@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louistam888)](https://github.com/Louistam888/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Louistam888&show_icons=true&theme=radical)](https://github.com/Louistam888)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louistam888&langs_count=8&exclude_repo=pythonRAG,aiAgentLangChain)](https://github.com/Louistam888/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Louistam888&layout=compact&theme=radical&exclude_repo=pythonRAG,aiAgentLangChain)](https://github.com/Louistam888)
 
 
 
