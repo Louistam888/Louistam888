@@ -7,7 +7,7 @@
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Louistam888&show_icons=true&theme=radical)](https://github.com/Louistam888)
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Louistam888&layout=compact&theme=radical&exclude_repo=pythonRAG,aiAgentLangChain)](https://github.com/Louistam888)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Louistam888&layout=compact&theme=radical&exclude_repo=pythonRAG,aiAgentLangChain&langs_count=10)](https://github.com/Louistam888)
 
 
 
